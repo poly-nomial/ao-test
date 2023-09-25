@@ -1,0 +1,7 @@
+.collectors-edition__shadow_right {
+    right: 0;
+    background-image: url(../../../../images/shadow-left.png);
+    rotate: 180deg;
+    width: 462px;
+    height: 100%;
+}

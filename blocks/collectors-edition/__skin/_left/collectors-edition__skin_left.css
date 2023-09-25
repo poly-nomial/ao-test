@@ -1,0 +1,7 @@
+.collectors-edition__skin_left {
+    background-image: url(../../../../images/MafiaCostume_left.png);
+    left: 0;
+    bottom: -15px;
+    z-index: 2;
+    width: 577px;
+}
