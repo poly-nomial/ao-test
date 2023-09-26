@@ -1,0 +1,12 @@
+.box__glow {
+    width: 680px;
+    height: 686px;
+    background: #416DF4;
+    mix-blend-mode: lighten;
+    opacity: 0.2;
+    border: 1px solid #000000;
+    filter: blur(100px);
+    position: absolute;
+    top: 185px;
+    left: 225px;
+}

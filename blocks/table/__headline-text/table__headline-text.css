@@ -1,0 +1,15 @@
+.table__headline-text {
+    color: #671D00;
+    font-weight: normal;
+    font-size: 12px;
+    border: 1px solid rgba(103, 29, 0, 0.48);
+    padding: 4px 0;
+    width: 140px;
+    margin-top: 0;
+    margin-bottom: 9px;
+    text-align: center;
+}
+
+.table__headline-text:last-of-type {
+    margin-left: 10px;
+}

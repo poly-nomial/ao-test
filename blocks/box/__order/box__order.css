@@ -1,0 +1,6 @@
+.box__order {
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-end;
+    margin-bottom: 81px;
+}

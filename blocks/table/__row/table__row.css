@@ -1,0 +1,11 @@
+.table__row .table__cell:first-of-type {
+    border-left: 1px solid rgba(103, 29, 0, 0.48);
+    border-top-left-radius: 1px;
+    border-bottom-left-radius: 1px;
+}
+
+.table__row .table__cell:last-of-type {
+    border-right: 1px solid rgba(103, 29, 0, 0.48);
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+}

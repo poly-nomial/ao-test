@@ -1,0 +1,8 @@
+.box {
+    width: 100%;
+    min-height: 1130px;
+    background-image: url(../../images/background-wall.png);
+    display: flex;
+    position: relative;
+    justify-content: center;
+}

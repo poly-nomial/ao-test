@@ -1,0 +1,9 @@
+.box__button {
+    border: none;
+    border-radius: 7px;
+    background-color: #FCFF00;
+    width: 180px;
+    height: 40px;
+    cursor: pointer;
+    z-index: 6;
+}
